@@ -1,0 +1,2872 @@
+{
+    "count": 300,
+    "comments": [
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "火鸡味的锅巴78",
+            "message": "全对 3 块[捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[Poppin Party表情包_生气]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/41f88561a2fd091b018363bfb3676130dbf756e4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "nAlnXXXX",
+            "message": "2333",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a98e35996545509188fe4d24bd1a56518ea5af48.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "游戏小杨",
+            "message": "不知道谁在吹cfo[哇]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "眉间瘦",
+            "message": "t1好好学[阴险][阴险][阴险][阴险][阴险][阴险][阴险]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a4df45c035b0ca0c58f162b5fb5058cf273d0d09.png",
+                "http://i0.hdslb.com/bfs/live/a4df45c035b0ca0c58f162b5fb5058cf273d0d09.png",
+                "http://i0.hdslb.com/bfs/live/a4df45c035b0ca0c58f162b5fb5058cf273d0d09.png",
+                "http://i0.hdslb.com/bfs/live/a4df45c035b0ca0c58f162b5fb5058cf273d0d09.png",
+                "http://i0.hdslb.com/bfs/live/a4df45c035b0ca0c58f162b5fb5058cf273d0d09.png",
+                "http://i0.hdslb.com/bfs/live/a4df45c035b0ca0c58f162b5fb5058cf273d0d09.png",
+                "http://i0.hdslb.com/bfs/live/a4df45c035b0ca0c58f162b5fb5058cf273d0d09.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "加内特与甜瓜",
+            "message": "2333",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a98e35996545509188fe4d24bd1a56518ea5af48.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "夜浔光",
+            "message": "星星向龙",
+            "color": "#ffed4f",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a69423be39b0f2a87dc74f2e44ead70de0eb0d4f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "夜浔光",
+            "message": "啊",
+            "color": "#ffed4f",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Atari白",
+            "message": "今年lck断档了[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "黑羽小航",
+            "message": "还是印证了某知名选手的话，五个本地人赢不了s赛的[捂脸]，还得是韩援",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "黑铁号令",
+            "message": "全对才3块[哇]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "在-我一直都在_",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Xun勋勋勋",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Xun勋勋勋",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[Poppin Party表情包_这样]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/3b00e2e83ff18d319e97454936e7df89de6a2e6c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "洋与软糯小祥",
+            "message": "[Ave Mujica_害怕]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/77d472e01becc4698ba0a553cc13b73c9423331c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_47118604000",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我可是奶龙",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_47118604000",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "一叶孤舟已过万重山",
+            "message": "[某科学的超电磁炮T_不要啊]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/13d2d70a7ce1a6f596552d8ac5035daca2f73ce3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我可是奶龙",
+            "message": "[抓狂]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a7feb260bb5b15f97d7119b444fc698e82516b9f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "吃绿茶吗",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[Poppin Party表情包_汗]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/168ec71cd6d5cb31dd5d731e05cf6c2cbe7e8be8.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "梦の星と海",
+            "message": "完了，今年不会lck会师决赛了吧[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亦老板",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "吃绿茶吗",
+            "message": "[Ave Mujica_害怕]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/77d472e01becc4698ba0a553cc13b73c9423331c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "YYD艾斯丶",
+            "message": "要不是抽签好 四强真的都是lck的[笑哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "一叶孤舟已过万重山",
+            "message": "[某科学的超电磁炮T_不要啊]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/13d2d70a7ce1a6f596552d8ac5035daca2f73ce3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "风屿゛",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亦老板",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "风屿゛",
+            "message": "[Ave Mujica_美味]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/113175054889461d81f5ec3d31acf7fc8728bba1.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "淸箐子衿",
+            "message": "[新月同行_佩服]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/6da270f8d6cf39b967a1a1fc74209226dc8f66fa.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "一叶孤舟已过万重山",
+            "message": "[某科学的超电磁炮T_呆住]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/c3bd519b041073b08f7c2d5928ea772aa5af3799.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "灵魂浅浅",
+            "message": "稳住能赢",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b3495aaa935b045bfc2e1d52738ea7b124e0d552.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "天子不相望",
+            "message": "坚毅眼神[傲娇]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b5b44f099059a1bafb2c2722cfe9a6f62c1dc531.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "双剑滑斩",
+            "message": "下次一定",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cc2652cef69b22117f1911391567bd2957f27e08.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "老唐Sy",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "老唐Sy",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "繁花落成殇灬",
+            "message": "[言和十二周年纪念表情包_升天]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/225e7ecbefef3fd371891c0546ce9fc3d77b2673.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "沃野步直道渭河驻策",
+            "message": "泪目",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/aa93b9af7ba03b50df23b64e9afd0d271955cd71.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "暗黑神雅克",
+            "message": "还调整心态，都崩溃了[手机][手机][手机][手机][手机][手机][手机][手机][手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "草草_0x",
+            "message": "[枕边童话_ok]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/f54c5a26dacc359aeacc71cc035960770efa8f28.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "尸鬼合唱团团长",
+            "message": "[Mygo表情包_生气]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/d2de77bf182351a5dd0d1b097c372a6c90434a50.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Hmx-Selflove",
+            "message": "[大笑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e2589d086df0db8a7b5ca2b1273c02d31d4433d4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "问心阁主",
+            "message": "上单搁这玩车轮战[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "工又可",
+            "message": "让三追梦吧[喝彩]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "清风明月子归途",
+            "message": "真掏德莱文就等着被针对吧[捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "ココリア",
+            "message": "[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "至上最欢喜",
+            "message": "打四保一那个四也不能太拉啊[捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "79979764",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "宋玉吹茶",
+            "message": "赢一把就行要求不高[委屈][委屈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png",
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "陈呃呃-",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "陈呃呃-",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "克里夫兰1962",
+            "message": "[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "陈呃呃-",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "阔狐",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "丿丶狮子座",
+            "message": "[拜年纪2022_摸鱼]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/c91335a1278581d8dfc3a0b8f69a8eec086841c6.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亦老板",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亦老板",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "上静青年",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "肆壹要睡啦",
+            "message": "坏了，不会真的是gen vs t1，胜利会师吧[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亦老板",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[Poppin Party表情包_无语]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/eeb2433b1abd94b76e246f86ef4b233d40c0db79.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "洛阳陌无花",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "一叶孤舟已过万重山",
+            "message": "[某科学的超电磁炮T_不要啊]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/13d2d70a7ce1a6f596552d8ac5035daca2f73ce3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "妙啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/7b7a2567ad1520f962ee226df777eaf3ca368fbc.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "ccbzzx",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_60277094925",
+            "message": "[手机][手机][手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Sarouko",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "ccbzzx",
+            "message": "妙啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/7b7a2567ad1520f962ee226df777eaf3ca368fbc.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "雨入花心゙゙゙",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Sarouko",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "星木月",
+            "message": "cfo到底行不行[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "私爱のTea",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "别熬夜了_对手机不好",
+            "message": "[酷仔]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/390100ada4659b4516984d386499fb22c0025084.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "康桥边的梵谷",
+            "message": "[Mygo表情包_发送消息]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/22dae20a7cab878ab37a4b21ffde7ee2b11a4e99.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "雨入花心゙゙゙",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[Poppin Party表情包_机智]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/ca1dc36be1cdff17ba9a4cec6b6dabf506974b99.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "肆壹要睡啦",
+            "message": "坏了，不会真的是gen vs t1，胜利会师吧[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "雨入花心゙゙゙",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Sarouko",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "说谎话要吞一千匹马",
+            "message": "[多特蒙德-黄黑无间_小珍珠]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/e479fbf7fa6f6f61410bf1c7a4a9c18155e5c920.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "雨入花心゙゙゙",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "月光宝何-",
+            "message": "保熟吗",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/0e28444c8e2faef3169e98e1a41c487144d877d4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "说谎话要吞一千匹马",
+            "message": "[多特蒙德-黄黑无间_敢怒不敢言]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/21173fa79ef2c1a91b57225911d016cb28e30177.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[Poppin Party表情包_拜托了]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/43e1798333b435b6274aff02a0c250fd03ff7078.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "喜欢睡觉的医学生",
+            "message": "[Ave Mujica_震惊]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/348de7364949ca4273782a3318df009a51ac6399.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "赞",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/bbd9045570d0c022a984c637e406cb0e1f208aa9.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "月光宝何-",
+            "message": "2333",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a98e35996545509188fe4d24bd1a56518ea5af48.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "B站神秘角落",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "情臻珍",
+            "message": "牛牛牛",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/343f7f7e87fa8a07df63f9cba6b776196d9066f0.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "奥洛拿",
+            "message": "[赞]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/2dd666d3651bafe8683acf770b7f4163a5f49809.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "月光宝何-",
+            "message": "这个好耶",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/2ce08b31618d3ad0d34877bf949ef0089a0438b7.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "把你忘在心里",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "日月晨曦6",
+            "message": "碾压局，没什么看头[撇嘴][撇嘴]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png",
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "切绘里奈0",
+            "message": "[洛天依9th_敲碗等]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "關龒",
+            "message": "[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "切绘里奈0",
+            "message": "[洛天依9th_敲碗等]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "把你忘在心里",
+            "message": "2333",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a98e35996545509188fe4d24bd1a56518ea5af48.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我卧我窝窝",
+            "message": "没绷住[捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "woc名字又重复",
+            "message": "[S赛-BLG表情包_拿下]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/d820e8e0cc975657f2145b9fa8761a076f51d73d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "一袭夜雨笙箫落",
+            "message": "[捂脸]kt完全是在虐啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "康桥边的梵谷",
+            "message": "[Mygo表情包_让我看看]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/ea42e2cdfb5a7d5aa67c8d02564213ba020b14a0.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "东秋听雨阁南慕容",
+            "message": "不如让ig上[笑哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "RickDch",
+            "message": "[给力][给力][给力][给力][给力][给力][给力][给力][给力][给力]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png",
+                "http://i0.hdslb.com/bfs/live/d1ba5f4c54332a21ed2ca0dcecaedd2add587839.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "hhhaaao",
+            "message": "我还没下班别结束那么快[冷]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b804118a1bdb8f3bec67d9b108d5ade6e3aa93a9.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "不知所措的期末考试",
+            "message": "[Mygo表情包_让我看看]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/ea42e2cdfb5a7d5aa67c8d02564213ba020b14a0.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "㠜嘊",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大夫说-",
+            "message": "大概率是零封了[捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "科哥哥大魔王",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "别熬夜了_对手机不好",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "科哥哥大魔王",
+            "message": "泰裤辣",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/82c38fc930ae764b4c6215f544bf8e1dba73b51c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "独守空城念旧人",
+            "message": "[热][热]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/6df760280b17a6cbac8c1874d357298f982ba4cf.png",
+                "http://i0.hdslb.com/bfs/live/6df760280b17a6cbac8c1874d357298f982ba4cf.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "科哥哥大魔王",
+            "message": "加霸孚",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/8935e3f1f933f9ca1d1b1a7d7a39db7fde6dee99.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "科哥哥大魔王",
+            "message": "欧皇驾到",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/650399e68d0d93df4b3f9e95e7437e83be7fbb1a.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "乔克爵爷",
+            "message": "给滔搏道歉[手机]这cfo也是一样被抽",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "老鱼ocean",
+            "message": "cfo加油[委屈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "走的比较快",
+            "message": "让三追四[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "短灰林鸮",
+            "message": "难道说[捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "把你忘在心里",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "哈麻瓜皮",
+            "message": "[天使嚣嚣REBOOT表情包_啊哈哈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/f35e1a6958b129c609f8f09ec2347bafc1e0a020.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "公册",
+            "message": "放一把德莱文[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "姜酒不酱酒",
+            "message": "哪有人请啊这俩对，估计收汁了[捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "乔克爵爷",
+            "message": "给滔搏道歉[手机]这cfo也是一样被抽",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "走的比较快",
+            "message": "选吕布，全杀了[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "冲鸭",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/dea7fbbc1c3d3c80f4c7b27263e13460f21874e4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "圈套圈套圈",
+            "message": "[热][热]吓哭了",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/6df760280b17a6cbac8c1874d357298f982ba4cf.png",
+                "http://i0.hdslb.com/bfs/live/6df760280b17a6cbac8c1874d357298f982ba4cf.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "很有精神",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e91cbe30b2db1e624bd964ad1f949661501f42f8.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "咱_疯子",
+            "message": "geng又不是没输过kt[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "wz蛋挞zw",
+            "message": "[赞了]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/40ded585bbd6328fc390076b5de224fd38b46793.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "挑战一下软肋",
+            "message": "UFO[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "悠閒的球球",
+            "message": "[泼水]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/29533893115c4609a4af336f49060ea13173ca78.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "错过-A",
+            "message": "每年是LPL最有希望的一年[笑哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "无聊生活家",
+            "message": "干杯",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/8fedede4028a72e71dae31270eedff5f706f7d18.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "平生划船不靠桨",
+            "message": "[BLG青春风暴表情包_BLG]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/433176edb923cb7562c91b301ebccf4701fc0838.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "葉月Leon",
+            "message": "[永雏塔菲仲夏集_玉玉小菲]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/c27b4a8d18faefcddb7501a32addf5b5854ebfdc.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "鹿酱酱w",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我卧我窝窝",
+            "message": "让我先哭[大哭][大哭][大哭][大哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "baba狗子",
+            "message": "都说KT休息时间长，上来就不留手啊[撇嘴][撇嘴][撇嘴][撇嘴]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png",
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png",
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png",
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "平生划船不靠桨",
+            "message": "[BLG青春风暴表情包_BLG]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/433176edb923cb7562c91b301ebccf4701fc0838.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "无聊生活家",
+            "message": "2333",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a98e35996545509188fe4d24bd1a56518ea5af48.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "平生划船不靠桨",
+            "message": "[BLG青春风暴表情包_BLG]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/433176edb923cb7562c91b301ebccf4701fc0838.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "打它",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "咪咕咪咕ww",
+            "message": "红q继续装[偷笑][偷笑][偷笑][偷笑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "节奏感看",
+            "message": "[拜年纪2022_摸鱼]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/c91335a1278581d8dfc3a0b8f69a8eec086841c6.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我卧我窝窝",
+            "message": "[大哭][大哭][大哭][大哭][大哭][大哭][大哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "平生划船不靠桨",
+            "message": "[BLG青春风暴表情包_BLG]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/433176edb923cb7562c91b301ebccf4701fc0838.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "无聊生活家",
+            "message": "干杯",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/8fedede4028a72e71dae31270eedff5f706f7d18.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "ALkaeL",
+            "message": "让一把[委屈][委屈][委屈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png",
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png",
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "切绘里奈0",
+            "message": "[洛天依9th_敲碗等]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "七毛233",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "节奏感看",
+            "message": "[喝彩][喝彩][喝彩][喝彩][喝彩]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png",
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png",
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png",
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png",
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "完美放映室",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "无聊生活家",
+            "message": "干杯",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/8fedede4028a72e71dae31270eedff5f706f7d18.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "葉月Leon",
+            "message": "[永雏塔菲仲夏集_玉玉小菲]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/c27b4a8d18faefcddb7501a32addf5b5854ebfdc.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "麦克斯-韦",
+            "message": "[哇][哇][哇][哇][哇][哇][哇][哇]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Sharealove",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "woc名字又重复",
+            "message": "[小会员绿豆人_狗头微笑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/5a95688f3d2f93c484118285179ccc5ea1c34b07.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "切绘里奈0",
+            "message": "[洛天依9th_敲碗等]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/52f226eb5419ae9963bbe22edc78eced32224f7c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "StuffyCoGH",
+            "message": "不要啊CFO[大哭][大哭][大哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "完美放映室",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "明日香アスカ1204",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "七毛233",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "情臻珍",
+            "message": "[虎年]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a51af0d7d9e60ce24f139c468a3853f9ba9bb184.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "路人陈某人",
+            "message": "四强三个lck 绝望不[妙][妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png",
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "龙也会变奶",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "三毛也晒屁屁",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "清风揽明月゛",
+            "message": "[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "三毛也晒屁屁",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "ALkaeL",
+            "message": "求求让一把，不要把CFO几位小孩道心打破碎[委屈][委屈][委屈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png",
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png",
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_49110076952",
+            "message": "也就是韩华遇上gen了 要不然四强全是韩国的 你信不信[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "_nopity_",
+            "message": "让三追梦[大哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "-羽神",
+            "message": "本来就是 lck 的游戏好吗，拿了 3 个冠军不知道自己是谁了吗[捂脸][捂脸][捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "等你下课3",
+            "message": "[哇]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "怡然不同",
+            "message": "冲鸭",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/dea7fbbc1c3d3c80f4c7b27263e13460f21874e4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "路人陈某人",
+            "message": "四强三个lck 绝望吧[鼠]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/98f842994035505c728e32e32045d649e371ecd6.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "麦克斯-韦",
+            "message": "[笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭][笑哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png",
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "k永远的王",
+            "message": "[Ave Mujica_睡觉]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/6ed374ebb21aa5071127969681764c9fe2d78b9f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "炭烤龍蝦",
+            "message": "[Ave Mujica_害怕]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/77d472e01becc4698ba0a553cc13b73c9423331c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "_逸雨涵梦",
+            "message": "德子必须来啊[疼]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/492b10d03545b7863919033db7d1ae3ef342df2f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Lighbelt",
+            "message": "[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_86197684218",
+            "message": "upup",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/38d84a4cd2f40069202ee13bbdca5b23d29710fb.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_47118604000",
+            "message": "最有希望的10年[捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "鱿鱼推文",
+            "message": "让二给一凑三[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "夏季風",
+            "message": "[大会员粉豆人_点赞]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/4b844f016d91cfbc38f71d468626aa4d694d7f55.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Lighbelt",
+            "message": "[手机][手机][手机][手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "暗香浮动_yhh",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "百变小挚",
+            "message": "冲鸭",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/dea7fbbc1c3d3c80f4c7b27263e13460f21874e4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Azalea木木",
+            "message": "[喝彩]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "ALkaeL",
+            "message": "让一把吧，CFO几个小孩子被打碎道心就不好了[委屈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "牛头马微人",
+            "message": "[秋星曜野表情包_盯]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/be27c99d2a5630dd3249a2997b858f3d73d6a5f7.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "哔哩哔哩用户",
+            "message": "LPL完蛋了啊啊啊啊啊啊[委屈][大哭][大哭][大哭][大哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png",
+                "http://i0.hdslb.com/bfs/live/816402551e6ce30d08b37a917f76dea8851fe529.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Lourie丶",
+            "message": "稳住能赢",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b3495aaa935b045bfc2e1d52738ea7b124e0d552.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "xevey",
+            "message": "好歹来个图四吧cfo[委屈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/69312e99a00d1db2de34ef2db9220c5686643a3f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我就是我TXT",
+            "message": "三个在哪[大笑]t1拿什么赢",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e2589d086df0db8a7b5ca2b1273c02d31d4433d4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "太刀侠从不猫车",
+            "message": "冲鸭",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/dea7fbbc1c3d3c80f4c7b27263e13460f21874e4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "路人陈某人",
+            "message": "四强三个lck 颤抖吧[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "麦克斯-韦",
+            "message": "[偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "很有精神",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e91cbe30b2db1e624bd964ad1f949661501f42f8.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "A11lrving",
+            "message": "泪目",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/aa93b9af7ba03b50df23b64e9afd0d271955cd71.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "麦克斯-韦",
+            "message": "[偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑][偷笑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png",
+                "http://i0.hdslb.com/bfs/live/e2ba16f947a23179cdc00420b71cc1d627d8ae25.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "清茶煮酒i丶",
+            "message": "闪避技能",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/fa3febe6c62f3bcd042953141930d96fb8451e60.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "-羽神",
+            "message": "本来就是韩国队的游戏[捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "天堂话事人",
+            "message": "[妙][妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png",
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "工又可",
+            "message": "让三追四[喝彩]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b51824125d09923a4ca064f0c0b49fc97d3fab79.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "松果lee",
+            "message": "[撇嘴]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "晚风不念君",
+            "message": "upup",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/38d84a4cd2f40069202ee13bbdca5b23d29710fb.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "日月晨曦6",
+            "message": "玩一把，下班[赞]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/2dd666d3651bafe8683acf770b7f4163a5f49809.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "L.りゅうざき",
+            "message": "[大笑][大笑][大笑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e2589d086df0db8a7b5ca2b1273c02d31d4433d4.png",
+                "http://i0.hdslb.com/bfs/live/e2589d086df0db8a7b5ca2b1273c02d31d4433d4.png",
+                "http://i0.hdslb.com/bfs/live/e2589d086df0db8a7b5ca2b1273c02d31d4433d4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "张口闭眼蝠",
+            "message": "[酸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/98fd92c6115b0d305f544b209c78ec322e4bb4ff.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_99827157403",
+            "message": "5点半下班[哇][哇][哇][哇]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "EX白帝",
+            "message": "妙啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/7b7a2567ad1520f962ee226df777eaf3ca368fbc.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "可莉爸爸在这呢",
+            "message": "18说是[捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "神乌兹",
+            "message": "[2233娘_吐魂]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/e999af499edf38a91ca68b1a9d2f97042c1d6734.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "EX白帝",
+            "message": "妙啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/7b7a2567ad1520f962ee226df777eaf3ca368fbc.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "风屿゛",
+            "message": "[Ave Mujica_怎么突然]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/532810a11a8789522b02fd259c771965daf3f078.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "来自8848客户端",
+            "message": "[赞了]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/40ded585bbd6328fc390076b5de224fd38b46793.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "神乌兹",
+            "message": "[2233娘_喝水]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/695bf5429472049b52c1e0de586f8a2511195a23.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "闹心市民小宇",
+            "message": "[哇][哇][哇][哇][哇]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png",
+                "http://i0.hdslb.com/bfs/live/650c3e22c06edcbca9756365754d38952fc019c3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "神乌兹",
+            "message": "[2233娘_第一]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/3754ee6e5985bd0bd7dfb668981f2a8733398ebd.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我姓父名亲",
+            "message": "[奸笑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5935e6a4103d024955f749d428311f39e120a58a.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Jinx啊",
+            "message": "[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "说谎话要吞一千匹马",
+            "message": "[多特蒙德-黄黑无间_加班]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/7b9ecac654224908a41a2265e7dd71e3604d724c.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "神乌兹",
+            "message": "[2233娘_吐魂]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/e999af499edf38a91ca68b1a9d2f97042c1d6734.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "-羽神",
+            "message": "一抢德莱文呗[捂脸][捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "来自8848客户端",
+            "message": "upup",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/38d84a4cd2f40069202ee13bbdca5b23d29710fb.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "AAA六课星见雅课长",
+            "message": "[Mygo表情包_不要吵架]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/cc8e99bc322285f3d416f6e038482de1e65db1ab.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "神乌兹",
+            "message": "[2233娘_第一]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/3754ee6e5985bd0bd7dfb668981f2a8733398ebd.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "纳凉ccccc",
+            "message": "多赢一把吧，赚点奶茶[笑哭]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/c5436c6806c32b28d471bb23d42f0f8f164a187a.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "我叫韦一敏",
+            "message": "有点东西",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/39e518474a3673c35245bf6ef8ebfff2c003fdc3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "-羽神",
+            "message": "一抢德莱文呗[捂脸][捂脸][捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "历飞羽和南宫屏",
+            "message": "滔搏gg[撇嘴]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "LM斗鹰",
+            "message": "来了来了",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/61e790813c51eab55ebe0699df1e9834c90b68ba.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "鬼影魔神z",
+            "message": "[捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亜硝酸ナトリウム",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "说谎话要吞一千匹马",
+            "message": "[多特蒙德-黄黑无间_玫瑰]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/7b4f2d2202fdb157b2d7ffe73677ee7704f90358.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "筱言逆",
+            "message": "[怪盗基德_震惊]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/f606eb2e003d1b2c9148394542d328df0ca0dbea.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "良子石家庄分良",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "猫猫小炒",
+            "message": "我还没下班，你们就下班了[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "-羽神",
+            "message": "一抢德莱文呗[捂脸][捂脸][捂脸][捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png",
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "芊千纤迁",
+            "message": "[Ave Mujica_怎么突然]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/532810a11a8789522b02fd259c771965daf3f078.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "GenG-要乐奈",
+            "message": "[Mygo表情包_探头]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/1127259479f9d680a8fe8f2bcf7361bad409bc97.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "予你一纸情诗",
+            "message": "[Mygo表情包_探头]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/1127259479f9d680a8fe8f2bcf7361bad409bc97.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "念头通达丶丶",
+            "message": "这么强势，0封[手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "GenG-要乐奈",
+            "message": "[Mygo表情包_有趣的女人]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/c6f80797fdec9625b0952d2f7928e73f38fc6ea3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Nicholas_Skyshow",
+            "message": "[Mygo表情包_探头]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/1127259479f9d680a8fe8f2bcf7361bad409bc97.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "予你一纸情诗",
+            "message": "[Mygo表情包_探头]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/1127259479f9d680a8fe8f2bcf7361bad409bc97.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "月月月月月眠",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亜硝酸ナトリウム",
+            "message": "[Ave Mujica_比叉叉]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/9b52453bde6e854524913a5bf7c65b5243448497.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "六根薯条",
+            "message": "[Ave Mujica_怎么突然]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/532810a11a8789522b02fd259c771965daf3f078.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "ガガカ",
+            "message": "[Mygo表情包_让我看看]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/ea42e2cdfb5a7d5aa67c8d02564213ba020b14a0.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "jyy8119",
+            "message": "[Mygo表情包_探头]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/1127259479f9d680a8fe8f2bcf7361bad409bc97.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "GenG-要乐奈",
+            "message": "BLG加油",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/5ac0e26a5204b19bcd9a77fa34a498ece370fe5b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "GenG-要乐奈",
+            "message": "[Ave Mujica_开心]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/681e5e329a776ff2092b19095c4c44160166b9ae.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "被卷傻了的烈小焰",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[少女乐队的呐喊表情包_哈哈]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/33cb05e0731b9b083c6108992a91c0f427dd5a48.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "AKA大佬鼠",
+            "message": "[珈乐Carol_OK]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/dfab74714b44fb7edcc093a1afb3454d9b121dab.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "孤音onil",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "GenG-要乐奈",
+            "message": "[Ave Mujica_愉快]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "予你一纸情诗",
+            "message": "[Mygo表情包_探头]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/1127259479f9d680a8fe8f2bcf7361bad409bc97.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "孤音onil",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "AKA大佬鼠",
+            "message": "[珈乐Carol_OK]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/dfab74714b44fb7edcc093a1afb3454d9b121dab.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "见习花匠",
+            "message": "[耶][白眼][耶]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/eb2d84ba623e2335a48f73fb5bef87bcf53c1239.png",
+                "http://i0.hdslb.com/bfs/live/7fa907ae85fa6327a0466e123aee1ac32d7c85f7.png",
+                "http://i0.hdslb.com/bfs/live/eb2d84ba623e2335a48f73fb5bef87bcf53c1239.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "6MTP1",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "酷Einzbern",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "寒云淼",
+            "message": "[Ave Mujica_我有话说]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/44e6371fbeafba82e22c10f543343d5daef210f2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "AKA大佬鼠",
+            "message": "[珈乐Carol_决明子]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/c9f83b57499c2252c0330aa8ed9de2fb9fc8f48e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亜硝酸ナトリウム",
+            "message": "[Afterglow_上热搜了]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/27ef3900b4deb501958f7d41b48a9144f908a73d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "-Rusian-",
+            "message": "[拜年纪2022_摸鱼]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/c91335a1278581d8dfc3a0b8f69a8eec086841c6.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "慌盐慌盐",
+            "message": "冲鸭",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/dea7fbbc1c3d3c80f4c7b27263e13460f21874e4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亜硝酸ナトリウム",
+            "message": "[Afterglow_我来！]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/37388da686d1aa8049b2b8e4b4d67b217857e4a2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[少女乐队的呐喊表情包_泪目]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/12b05922518d001f92813782b33df660de26d056.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "用户325325325325",
+            "message": "[千恋万花表情包_呆]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/96574acd57a94f3e157643ef05d0547a03cdc1d3.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "蒙奇呆呆",
+            "message": "不管哪个队提莫一把  都算是一种解脱和释然[手机][手机][手机]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png",
+                "http://i0.hdslb.com/bfs/live/b159f90431148a973824f596288e7ad6a8db014b.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "待漫",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "唧蛋饼",
+            "message": "啊",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/cbf2746062242e77bdcb9eb08edbf9b151fe0c2e.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "pingu和毛坨",
+            "message": "[坎公骑冠剑_惊叹]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "情深永相传",
+            "message": "[Mygo表情包_生气]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/d2de77bf182351a5dd0d1b097c372a6c90434a50.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "bili_41500514097",
+            "message": "[妙]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/08f735d950a0fba267dda140673c9ab2edf6410d.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "pingu和毛坨",
+            "message": "[坎公骑冠剑_惊叹]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/30ed9cd688e17cc6c54f7b969b6e89b74580a5db.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "虚界行走",
+            "message": "能不能清醒就看这把了[哈欠][哈欠]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/6e496946725cd66e7ff1b53021bf1cc0fc240288.png",
+                "http://i0.hdslb.com/bfs/live/6e496946725cd66e7ff1b53021bf1cc0fc240288.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "在下毛毛雨呐",
+            "message": "[星幕回响_小丑]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/0793bba68dd4feddbccbb0c93682fffde9a59612.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "纬度天爵",
+            "message": "upup",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/38d84a4cd2f40069202ee13bbdca5b23d29710fb.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "E银龙骑士",
+            "message": "德莱文[抓狂]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a7feb260bb5b15f97d7119b444fc698e82516b9f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "亜硝酸ナトリウム",
+            "message": "[Poppin Party表情包_干嘛]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/bdf96231427aa978feaceba4d2b33f333b856dde.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "张兮嘚",
+            "message": "[撇嘴][撇嘴][撇嘴][撇嘴]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png",
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png",
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png",
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[少女乐队的呐喊表情包_拜拜]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/40cb89e9c7ccc19063a07499a5133d7d65f66108.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "美食家章鱼哥",
+            "message": "冲鸭",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/dea7fbbc1c3d3c80f4c7b27263e13460f21874e4.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "良子石家庄分良",
+            "message": "星星向龙",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/a69423be39b0f2a87dc74f2e44ead70de0eb0d4f.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "康桥边的梵谷",
+            "message": "[Mygo表情包_让我看看]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/item/ea42e2cdfb5a7d5aa67c8d02564213ba020b14a0.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "神乌兹",
+            "message": "[2233娘_吐魂]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/e999af499edf38a91ca68b1a9d2f97042c1d6734.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "Myosotis-sylvati",
+            "message": "结束了[捂脸]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/e6073c6849f735ae6cb7af3a20ff7dcec962b4c5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "pingu和毛坨",
+            "message": "[坎公骑冠剑_妖妖灵]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/emote/2c8eee463117bec38f38d6cf6873d333aa9660a5.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "小小小尛子",
+            "message": "[撇嘴]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "牛少的美好生活",
+            "message": "又只能玩体系了[撇嘴]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "http://i0.hdslb.com/bfs/live/4255ce6ed5d15b60311728a803d03dd9a24366b2.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "无敌公主连结大王",
+            "message": "[公主连结五周年表情包_惊讶]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/emote/aa53ca7c3e2e40b2d3c4e770042bacecee72fa27.png"
+            ]
+        },
+        {
+            "type": "LiveMessageType.chat",
+            "userName": "大王超可爱",
+            "message": "[少女乐队的呐喊表情包_不行]",
+            "color": "#ffffff",
+            "imageUrls": [
+                "https://i0.hdslb.com/bfs/garb/43a9810eafe475154d7d65a561b2692590b3c4c0.png"
+            ]
+        }
+    ]
+}

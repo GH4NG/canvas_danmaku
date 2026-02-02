@@ -193,6 +193,80 @@ class _HomePageState extends State<HomePage> {
                   },
                 ),
                 TextButton(
+                  child: const Text('single image'),
+                  onPressed: () {
+                    _controller?.addDanmaku(
+                      DanmakuContentItem(
+                        "[Ave Mujica_愉快]",
+                        color: getRandomColor(),
+                        imagesUrl: [
+                          "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png",
+                        ],
+                        isColorful: true,
+                        type: DanmakuItemType.scroll,
+                        count: [1, 10, 100, 1000, 10000][_random.nextInt(5)],
+                        extra: _random.nextInt(2147483647),
+                      ),
+                    );
+                  },
+                ),
+                TextButton(
+                  child: const Text('duo image'),
+                  onPressed: () {
+                    _controller?.addDanmaku(
+                      DanmakuContentItem(
+                        "[Ave Mujica_愉快][Ave Mujica_愉快]",
+                        color: getRandomColor(),
+                        imagesUrl: [
+                          "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png",
+                          "https://i0.hdslb.com/bfs/garb/16ec7171bb4b5c77751898178523a3d59124f547.png",
+                        ],
+                        isColorful: true,
+                        type: DanmakuItemType.scroll,
+                        count: [1, 10, 100, 1000, 10000][_random.nextInt(5)],
+                        extra: _random.nextInt(2147483647),
+                      ),
+                    );
+                  },
+                ),
+                TextButton(
+                  child: const Text('TopImage'),
+                  onPressed: () {
+                    _controller?.addDanmaku(
+                      DanmakuContentItem(
+                        "这是一条带顶部图片的弹幕,皮鞭甩起来[dog]",
+                        color: getRandomColor(),
+                        imagesUrl: [
+                          "http://i0.hdslb.com/bfs/live/4428c84e694fbf4e0ef6c06e958d9352c3582740.png",
+                        ],
+                        isColorful: true,
+                        type: DanmakuItemType.top,
+                        count: [1, 10, 100, 1000, 10000][_random.nextInt(5)],
+                        extra: _random.nextInt(2147483647),
+                      ),
+                    );
+                  },
+                ),
+                TextButton(
+                  child: const Text('BottomImage'),
+                  onPressed: () {
+                    _controller?.addDanmaku(
+                      DanmakuContentItem(
+                        "这是一条底部带图片的弹幕,皮鞭甩起来[dog]",
+                        color: getRandomColor(),
+                        imagesUrl: [
+                          "http://i0.hdslb.com/bfs/live/4428c84e694fbf4e0ef6c06e958d9352c3582740.png",
+                        ],
+                        isColorful: true,
+                        type: DanmakuItemType.bottom,
+                        count: [1, 10, 100, 1000, 10000][_random.nextInt(5)],
+                        extra: _random.nextInt(2147483647),
+                      ),
+                    );
+                  },
+                ),
+
+                TextButton(
                   child: const Text('Circle'),
                   onPressed: () {
                     Iterable.generate(
@@ -316,6 +390,31 @@ class _HomePageState extends State<HomePage> {
                           extra: _random.nextInt(2147483647),
                         ),
                       );
+                    }
+                  },
+                ),
+                TextButton(
+                  child: const Text('Bilibili'),
+                  onPressed: () async {
+                    String data = await rootBundle.loadString(
+                      'assets/bilibili_danmaku_7734200.json',
+                    );
+                    final jsonData = jsonDecode(data) as Map<String, dynamic>;
+                    final comments = jsonData['comments'] as List;
+
+                    for (var item in comments) {
+                      _controller?.addDanmaku(
+                        DanmakuContentItem(
+                          item['message'] as String,
+                          color: Colors.white,
+                          imagesUrl: (item['imageUrls'] as List?)
+                              ?.map((e) => e.toString())
+                              .toList(),
+                          type: DanmakuItemType.scroll,
+                          extra: _random.nextInt(2147483647),
+                        ),
+                      );
+                      await Future.delayed(const Duration(milliseconds: 500));
                     }
                   },
                 ),

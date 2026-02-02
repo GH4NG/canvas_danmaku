@@ -1,4 +1,5 @@
 import 'dart:math';
+import 'dart:ui' as ui;
 
 import 'package:canvas_danmaku/danmaku_controller.dart';
 import 'package:canvas_danmaku/models/danmaku_content_item.dart';
@@ -7,6 +8,7 @@ import 'package:canvas_danmaku/models/danmaku_option.dart';
 import 'package:canvas_danmaku/scroll_danmaku_painter.dart';
 import 'package:canvas_danmaku/special_danmaku_painter.dart';
 import 'package:canvas_danmaku/static_danmaku_painter.dart';
+import 'package:canvas_danmaku/utils/image_loader.dart';
 import 'package:canvas_danmaku/utils/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
@@ -148,6 +150,32 @@ class _DanmakuScreenState<T> extends State<DanmakuScreen<T>>
     super.dispose();
   }
 
+  void _loadImagesForItem(
+    DanmakuItem<T> item,
+    DanmakuContentItem<T> content,
+    VoidCallback notifyRefresh,
+  ) {
+    if (content.imagesUrl != null && content.imagesUrl!.isNotEmpty) {
+      ImageLoader.loadImages(content.imagesUrl!).then((loaded) {
+        final imgs = <ui.Image>[];
+        for (final img in loaded) {
+          if (img != null) imgs.add(img);
+        }
+        if (imgs.isEmpty) return;
+        item
+          ..loadedImages = imgs
+          ..image?.dispose()
+          ..image = null
+          ..drawParagraphIfNeeded(
+            _option.fontSize,
+            _option.fontWeight,
+            _option.strokeWidth,
+          );
+        notifyRefresh();
+      });
+    }
+  }
+
   bool _handleNormalDanmaku(
     DanmakuContentItem<T> content,
     bool Function(int, double) canAdd, {
@@ -179,12 +207,14 @@ class _DanmakuScreenState<T> extends State<DanmakuScreen<T>>
         width: danmakuWidth,
         height: danmakuHeight,
         content: content,
+        loadedImages: null,
         image: DmUtils.recordDanmakuImage(
           contentParagraph: paragraph,
           content: content,
           fontSize: _option.fontSize,
           fontWeight: _option.fontWeight,
           strokeWidth: _option.strokeWidth,
+          images: null,
         ));
 
     for (var i = 0; i < _trackCount; i++) {
@@ -195,11 +225,13 @@ class _DanmakuScreenState<T> extends State<DanmakuScreen<T>>
         final item = getItem();
         if (content.type == DanmakuItemType.scroll || scroll) {
           _scrollDanmakuItems[index].add(item);
+          _loadImagesForItem(item, content, _notifier.refresh);
         } else {
           _staticDanmakuItems.value[index] = item;
           if (_running) {
             _staticDanmakuItems.refresh();
           }
+          _loadImagesForItem(item, content, _staticDanmakuItems.refresh);
         }
         break;
       }
@@ -212,10 +244,12 @@ class _DanmakuScreenState<T> extends State<DanmakuScreen<T>>
     } else {
       if (content.selfSend) {
         _scrollDanmakuItems[0].add(getItem());
+        _loadImagesForItem(getItem(), content, _notifier.refresh);
         added = true;
       } else if ((content.type == DanmakuItemType.scroll || scroll) &&
           _option.massiveMode) {
         _scrollDanmakuItems[_random.nextInt(_trackCount)].add(getItem());
+        _loadImagesForItem(getItem(), content, _notifier.refresh);
         added = true;
       }
     }
@@ -248,17 +282,20 @@ class _DanmakuScreenState<T> extends State<DanmakuScreen<T>>
       case DanmakuItemType.special:
         if (_option.hideSpecial) return false;
         added = true;
-        _specialDanmakuItems.add(
-          DanmakuItem<T>(
-              width: 0,
-              height: 0,
-              content: content,
-              image: DmUtils.recordSpecialDanmakuImg(
-                content: content as SpecialDanmakuContentItem,
-                fontWeight: _option.fontWeight,
-                strokeWidth: _option.strokeWidth,
-              )),
+        final specialItem = DanmakuItem<T>(
+          width: 0,
+          height: 0,
+          content: content,
+          loadedImages: null,
+          image: DmUtils.recordSpecialDanmakuImg(
+            content: content as SpecialDanmakuContentItem,
+            fontWeight: _option.fontWeight,
+            strokeWidth: _option.strokeWidth,
+            images: null,
+          ),
         );
+        _specialDanmakuItems.add(specialItem);
+        _loadImagesForItem(specialItem, content, _notifier.refresh);
         if (_running && !_ticker.isActive) {
           _ticker.start();
         }

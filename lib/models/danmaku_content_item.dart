@@ -9,6 +9,9 @@ class DanmakuContentItem<T> {
   /// 弹幕文本
   final String text;
 
+  /// 弹幕图片链接
+  final List<String>? imagesUrl;
+
   /// 弹幕颜色
   Color color;
 
@@ -28,6 +31,7 @@ class DanmakuContentItem<T> {
 
   DanmakuContentItem(
     this.text, {
+    this.imagesUrl,
     this.color = Colors.white,
     this.type = DanmakuItemType.scroll,
     this.selfSend = false,
@@ -86,6 +90,7 @@ class SpecialDanmakuContentItem<T> extends DanmakuContentItem<T> {
     super.count,
     this.easingType = Curves.linear,
     super.extra,
+    super.imagesUrl,
   }) : translationDuration = translationDuration ?? duration;
 
   factory SpecialDanmakuContentItem.fromList(

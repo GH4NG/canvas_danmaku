@@ -69,6 +69,7 @@ final class SpecialDanmakuPainter extends BaseDanmakuPainter {
         content: item,
         fontWeight: fontWeight,
         strokeWidth: strokeWidth,
+        images: dm.loadedImages,
       ),
       dx,
       dy,

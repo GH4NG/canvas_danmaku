@@ -16,6 +16,10 @@ abstract final class DmUtils {
     _selfSendPaint.strokeWidth = strokeWidth;
   }
 
+  static String parseTextWithImages(String text) {
+    return text.replaceAll(RegExp(r'\[[^\]]+\]'), '');
+  }
+
   static ui.Paragraph generateParagraph({
     required DanmakuContentItem content,
     required double fontSize,
@@ -38,9 +42,14 @@ abstract final class DmUtils {
         ..pop();
     }
 
+    final displayText =
+        content.imagesUrl != null && content.imagesUrl!.isNotEmpty
+            ? parseTextWithImages(content.text)
+            : content.text;
+
     builder
       ..pushStyle(ui.TextStyle(color: content.color, fontSize: fontSize))
-      ..addText(content.text);
+      ..addText(displayText);
 
     return builder.build()
       ..layout(const ui.ParagraphConstraints(width: double.infinity));
@@ -52,9 +61,56 @@ abstract final class DmUtils {
     required double fontSize,
     required int fontWeight,
     required double strokeWidth,
+    List<ui.Image>? images,
   }) {
+    final displayText =
+        content.imagesUrl != null && content.imagesUrl!.isNotEmpty
+            ? parseTextWithImages(content.text)
+            : content.text;
+
+    final isImageOnly = images != null &&
+        images.isNotEmpty &&
+        (displayText.trim().isEmpty ||
+            !content.text.contains(RegExp(r'\[[^\]]+\]')));
+
     double w = contentParagraph.maxIntrinsicWidth + strokeWidth;
     double h = contentParagraph.height + strokeWidth;
+
+    if (images != null && images.isNotEmpty) {
+      if (isImageOnly) {
+        const imageSpacing = 6.0;
+        final isMultipleImages = images.length > 1;
+        w = 0;
+        double maxHeight = 0;
+
+        if (isMultipleImages) {
+          final imageHeight = contentParagraph.height;
+          for (var img in images) {
+            final aspectRatio = img.width / img.height;
+            w += imageHeight * aspectRatio;
+            maxHeight = imageHeight;
+          }
+        } else {
+          for (var img in images) {
+            w += img.width / devicePixelRatio;
+            final imgHeight = img.height / devicePixelRatio;
+            if (imgHeight > maxHeight) maxHeight = imgHeight;
+          }
+        }
+
+        w += (images.length - 1) * imageSpacing;
+        w += strokeWidth;
+        h = maxHeight + strokeWidth;
+      } else {
+        final imageHeight = h - strokeWidth;
+        double totalImageWidth = 0;
+        for (var img in images) {
+          final aspectRatio = img.width / img.height;
+          totalImageWidth += imageHeight * aspectRatio;
+        }
+        w += totalImageWidth;
+      }
+    }
 
     final offset = Offset(
       (strokeWidth / 2.0) + (content.selfSend ? 2.0 : 0.0),
@@ -87,28 +143,86 @@ abstract final class DmUtils {
         strokePaint.color = Colors.black;
       }
 
-      if (content.count case final count?) {
+      if (!isImageOnly) {
+        if (content.count case final count?) {
+          builder
+            ..pushStyle(ui.TextStyle(
+              fontSize: fontSize * 0.6,
+              foreground: strokePaint,
+            ))
+            ..addText('($count)')
+            ..pop();
+        }
+
+        final displayText =
+            content.imagesUrl != null && content.imagesUrl!.isNotEmpty
+                ? parseTextWithImages(content.text)
+                : content.text;
+
         builder
-          ..pushStyle(ui.TextStyle(
-            fontSize: fontSize * 0.6,
-            foreground: strokePaint,
-          ))
-          ..addText('($count)')
-          ..pop();
+          ..pushStyle(ui.TextStyle(fontSize: fontSize, foreground: strokePaint))
+          ..addText(displayText);
+
+        final strokeParagraph = builder.build()
+          ..layout(const ui.ParagraphConstraints(width: double.infinity));
+
+        canvas.drawParagraph(strokeParagraph, offset);
+        strokeParagraph.dispose();
       }
-
-      builder
-        ..pushStyle(ui.TextStyle(fontSize: fontSize, foreground: strokePaint))
-        ..addText(content.text);
-
-      final strokeParagraph = builder.build()
-        ..layout(const ui.ParagraphConstraints(width: double.infinity));
-
-      canvas.drawParagraph(strokeParagraph, offset);
-      strokeParagraph.dispose();
     }
 
-    canvas.drawParagraph(contentParagraph, offset);
+    if (!isImageOnly) {
+      canvas.drawParagraph(contentParagraph, offset);
+    }
+
+    if (images != null && images.isNotEmpty) {
+      if (isImageOnly) {
+        const imageSpacing = 6.0;
+        final isMultipleImages = images.length > 1;
+        double currentX = offset.dx;
+        for (var i = 0; i < images.length; i++) {
+          final img = images[i];
+          double imageWidth;
+          double imageHeight;
+
+          if (isMultipleImages) {
+            final textHeight = contentParagraph.height;
+            final aspectRatio = img.width / img.height;
+            imageHeight = textHeight;
+            imageWidth = textHeight * aspectRatio;
+          } else {
+            imageWidth = img.width / devicePixelRatio;
+            imageHeight = img.height / devicePixelRatio;
+          }
+
+          final srcRect =
+              Rect.fromLTWH(0, 0, img.width.toDouble(), img.height.toDouble());
+          final dstRect =
+              Rect.fromLTWH(currentX, offset.dy, imageWidth, imageHeight);
+          canvas.drawImageRect(img, srcRect, dstRect, Paint());
+          currentX += imageWidth;
+          if (i < images.length - 1) {
+            currentX += imageSpacing;
+          }
+        }
+      } else {
+        double currentX = contentParagraph.maxIntrinsicWidth + offset.dx;
+        final imageHeight = h - strokeWidth;
+
+        for (var img in images) {
+          final aspectRatio = img.width / img.height;
+          final imageWidth = imageHeight * aspectRatio;
+
+          final srcRect =
+              Rect.fromLTWH(0, 0, img.width.toDouble(), img.height.toDouble());
+          final dstRect =
+              Rect.fromLTWH(currentX, offset.dy, imageWidth, imageHeight);
+          canvas.drawImageRect(img, srcRect, dstRect, Paint());
+
+          currentX += imageWidth;
+        }
+      }
+    }
 
     if (content.selfSend) {
       w += 4;
@@ -128,7 +242,18 @@ abstract final class DmUtils {
     required SpecialDanmakuContentItem content,
     required int fontWeight,
     required double strokeWidth,
+    List<ui.Image>? images,
   }) {
+    final displayText =
+        content.imagesUrl != null && content.imagesUrl!.isNotEmpty
+            ? parseTextWithImages(content.text)
+            : content.text;
+
+    final isImageOnly = images != null &&
+        images.isNotEmpty &&
+        (displayText.trim().isEmpty ||
+            !content.text.contains(RegExp(r'\[[^\]]+\]')));
+
     final builder = ui.ParagraphBuilder(ui.ParagraphStyle(
       textAlign: TextAlign.left,
       fontWeight: FontWeight.values[fontWeight],
@@ -142,14 +267,53 @@ abstract final class DmUtils {
             ? [Shadow(color: Colors.black, blurRadius: strokeWidth)]
             : null,
       ))
-      ..addText(content.text);
+      ..addText(displayText);
 
     final paragraph = builder.build()
       ..layout(const ui.ParagraphConstraints(width: double.infinity));
 
     final strokeOffset = strokeWidth / 2;
-    final totalWidth = paragraph.maxIntrinsicWidth + strokeWidth;
-    final totalHeight = paragraph.height + strokeWidth;
+    double totalWidth;
+    double totalHeight;
+
+    if (isImageOnly) {
+      const imageSpacing = 6.0;
+      final isMultipleImages = images.length > 1;
+      double totalW = 0;
+      double maxH = 0;
+
+      if (isMultipleImages) {
+        final imageHeight = paragraph.height;
+        for (var img in images) {
+          final aspectRatio = img.width / img.height;
+          totalW += imageHeight * aspectRatio;
+          maxH = imageHeight;
+        }
+      } else {
+        for (var img in images) {
+          totalW += img.width / devicePixelRatio;
+          final h = img.height / devicePixelRatio;
+          if (h > maxH) maxH = h;
+        }
+      }
+
+      totalW += (images.length - 1) * imageSpacing;
+      totalWidth = totalW + strokeWidth;
+      totalHeight = maxH + strokeWidth;
+    } else {
+      totalWidth = paragraph.maxIntrinsicWidth + strokeWidth;
+      totalHeight = paragraph.height + strokeWidth;
+
+      double imageWidth = 0;
+      if (images != null && images.isNotEmpty) {
+        final imageHeight = paragraph.height;
+        for (var img in images) {
+          final aspectRatio = img.width / img.height;
+          imageWidth += imageHeight * aspectRatio;
+        }
+        totalWidth += imageWidth;
+      }
+    }
 
     final rec = ui.PictureRecorder();
     final canvas = ui.Canvas(rec);
@@ -175,6 +339,18 @@ abstract final class DmUtils {
         canvas.rotate(content.rotateZ);
       }
       canvas.drawParagraph(paragraph, Offset.zero);
+
+      if (images != null && images.isNotEmpty) {
+        _drawSpecialDanmakuImages(
+          canvas,
+          images,
+          isImageOnly ? strokeOffset : paragraph.maxIntrinsicWidth,
+          isImageOnly ? strokeOffset : 0,
+          isImageOnly ? totalHeight - strokeWidth : paragraph.height,
+          devicePixelRatio,
+          useOriginalSize: isImageOnly,
+        );
+      }
     } else {
       rect = Rect.fromLTRB(0, 0, totalWidth, totalHeight);
 
@@ -205,6 +381,20 @@ abstract final class DmUtils {
       }
 
       rect = Rect.fromLTRB(left, top, right, bottom);
+
+      if (images != null && images.isNotEmpty) {
+        _drawSpecialDanmakuImages(
+          canvas,
+          images,
+          isImageOnly
+              ? strokeOffset
+              : (paragraph.maxIntrinsicWidth + strokeOffset),
+          strokeOffset,
+          isImageOnly ? totalHeight - strokeWidth : paragraph.height,
+          devicePixelRatio,
+          useOriginalSize: isImageOnly,
+        );
+      }
     }
 
     content.rect = rect;
@@ -214,6 +404,61 @@ abstract final class DmUtils {
     pic.dispose();
 
     return img;
+  }
+
+  static void _drawSpecialDanmakuImages(
+    ui.Canvas canvas,
+    List<ui.Image> images,
+    double startX,
+    double startY,
+    double imageHeight,
+    double devicePixelRatio, {
+    bool useOriginalSize = false,
+  }) {
+    if (useOriginalSize) {
+      const imageSpacing = 6.0;
+      final isMultipleImages = images.length > 1;
+      double currentX = startX;
+      for (var i = 0; i < images.length; i++) {
+        final img = images[i];
+        double imageWidth;
+        double actualHeight;
+
+        if (isMultipleImages) {
+          final aspectRatio = img.width / img.height;
+          actualHeight = imageHeight;
+          imageWidth = imageHeight * aspectRatio;
+        } else {
+          imageWidth = img.width / devicePixelRatio;
+          actualHeight = img.height / devicePixelRatio;
+        }
+
+        final srcRect =
+            Rect.fromLTWH(0, 0, img.width.toDouble(), img.height.toDouble());
+        final dstRect =
+            Rect.fromLTWH(currentX, startY, imageWidth, actualHeight);
+        canvas.drawImageRect(img, srcRect, dstRect, Paint());
+
+        currentX += imageWidth;
+        if (i < images.length - 1) {
+          currentX += imageSpacing;
+        }
+      }
+    } else {
+      double currentX = startX;
+      for (var img in images) {
+        final aspectRatio = img.width / img.height;
+        final imageWidth = imageHeight * aspectRatio;
+
+        final srcRect =
+            Rect.fromLTWH(0, 0, img.width.toDouble(), img.height.toDouble());
+        final dstRect =
+            Rect.fromLTWH(currentX, startY, imageWidth, imageHeight);
+        canvas.drawImageRect(img, srcRect, dstRect, Paint());
+
+        currentX += imageWidth;
+      }
+    }
   }
 
   static Rect _calculateRotatedBounds(
