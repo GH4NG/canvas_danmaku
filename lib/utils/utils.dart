@@ -91,9 +91,20 @@ abstract final class DmUtils {
             maxHeight = imageHeight;
           }
         } else {
+          // 单个表情：限制最大高度为两行文字高度
+          final limitImageHeight = contentParagraph.height * 2.0;
           for (var img in images) {
-            w += img.width / devicePixelRatio;
-            final imgHeight = img.height / devicePixelRatio;
+            var imgWidth = img.width / devicePixelRatio;
+            var imgHeight = img.height / devicePixelRatio;
+
+            // 如果高度超过限制，按比例缩放
+            if (imgHeight > limitImageHeight) {
+              final scale = limitImageHeight / imgHeight;
+              imgWidth *= scale;
+              imgHeight *= scale;
+            }
+
+            w += imgWidth;
             if (imgHeight > maxHeight) maxHeight = imgHeight;
           }
         }
@@ -191,8 +202,16 @@ abstract final class DmUtils {
             imageHeight = textHeight;
             imageWidth = textHeight * aspectRatio;
           } else {
+            // 单个表情：限制最大高度为两行文字高度
             imageWidth = img.width / devicePixelRatio;
             imageHeight = img.height / devicePixelRatio;
+
+            final limitImageHeight = contentParagraph.height * 2.0;
+            if (imageHeight > limitImageHeight) {
+              final scale = limitImageHeight / imageHeight;
+              imageWidth *= scale;
+              imageHeight *= scale;
+            }
           }
 
           final srcRect =
@@ -290,9 +309,20 @@ abstract final class DmUtils {
           maxH = imageHeight;
         }
       } else {
+        // 单个表情：限制最大高度为两行文字高度
+        final limitImageHeight = paragraph.height * 2.0;
         for (var img in images) {
-          totalW += img.width / devicePixelRatio;
-          final h = img.height / devicePixelRatio;
+          var w = img.width / devicePixelRatio;
+          var h = img.height / devicePixelRatio;
+
+          // 如果高度超过限制，按比例缩放
+          if (h > limitImageHeight) {
+            final scale = limitImageHeight / h;
+            w *= scale;
+            h *= scale;
+          }
+
+          totalW += w;
           if (h > maxH) maxH = h;
         }
       }
@@ -429,8 +459,16 @@ abstract final class DmUtils {
           actualHeight = imageHeight;
           imageWidth = imageHeight * aspectRatio;
         } else {
+          // 单个表情：限制最大高度为两行文字高度
           imageWidth = img.width / devicePixelRatio;
           actualHeight = img.height / devicePixelRatio;
+
+          final limitImageHeight = imageHeight * 2.0;
+          if (actualHeight > limitImageHeight) {
+            final scale = limitImageHeight / actualHeight;
+            imageWidth *= scale;
+            actualHeight *= scale;
+          }
         }
 
         final srcRect =

@@ -105,10 +105,19 @@ class DanmakuItem<T> {
             maxImageHeight = imageHeight;
           }
         } else {
-          // 单个表情：使用原始尺寸
+          // 单个表情：限制最大高度为两行文字高度
+          final limitImageHeight = paragraphHeight * 2.0;
           for (var img in loadedImages!) {
-            final w = img.width.toDouble();
-            final h = img.height.toDouble();
+            var w = img.width.toDouble();
+            var h = img.height.toDouble();
+
+            // 如果高度超过限制，按比例缩放
+            if (h > limitImageHeight) {
+              final scale = limitImageHeight / h;
+              w *= scale;
+              h *= scale;
+            }
+
             totalImageWidth += w;
             if (h > maxImageHeight) maxImageHeight = h;
           }
